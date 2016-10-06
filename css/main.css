@@ -61,7 +61,7 @@ ol:last-of-type {
   font-size: 0.8rem;
 }
 
-p:nth-of-type(4) {
+.serving {
   font-style: italic;
 }
 
