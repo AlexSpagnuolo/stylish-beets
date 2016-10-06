@@ -4,11 +4,13 @@ html {
 
 ul:first-of-type {
   list-style-type: none;
+  font-family: 'PT Sans', sans-serif;
 }
 
 a {
   color: #8f2440;
   text-decoration:none;
+  font-family: 'PT Sans', sans-serif;
 }
 
 a:hover {
@@ -17,6 +19,7 @@ a:hover {
 
 h1, h2 {
   color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
 }
 
 figcaption {
@@ -27,4 +30,8 @@ figcaption {
 
 img {
   width: 100%;
+}
+
+p:first-of-type {
+  font-family: 'PT Sans', sans-serif;
 }
