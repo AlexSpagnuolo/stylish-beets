@@ -1,0 +1,27 @@
+html {
+  background-color: #c9b5ab;
+  font-family: 'PT Serif', serif;}
+
+ul:first-of-type {
+  list-style-type: none;
+}
+
+a {
+  color: #8f2440;
+  text-decoration:none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  color: #3f1622;
+  text-transform: uppercase;
+}
+
+figcaption {
+  font-size: 1rem;
+  font-style: italic;
+  text-align: center;
+}
