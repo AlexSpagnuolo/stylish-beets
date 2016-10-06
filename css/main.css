@@ -42,3 +42,14 @@ blockquote {
   font-size: 1.5rem;
   font-style: italic;
 }
+
+cite {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+#common {
+  font-family: 'PT Serif', serif;
+  list-style-type: lower-greek;
+  font-size: 1.25rem;
+}
