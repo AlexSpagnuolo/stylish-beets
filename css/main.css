@@ -1,18 +1,19 @@
 html {
   background-color: #c9b5ab;
-  font-family: 'PT Serif', serif;}
+  font-family: 'PT Serif', serif;
+  line-height: 1.5;
+}
 
-ul:first-of-type {
+ol:first-of-type {
   list-style-type: none;
   font-family: 'PT Sans', sans-serif;
-  font-style: oblique;
+  font-size: 1.5rem;
 }
 
 a {
   color: #8f2440;
   text-decoration:none;
   font-family: 'PT Sans', sans-serif;
-  font-style: strong;
 }
 
 a:hover {
@@ -25,7 +26,6 @@ h1, h2 {
 }
 
 figcaption {
-  font-size: 1rem;
   font-style: italic;
   text-align: center;
 }
@@ -35,7 +35,10 @@ img {
 }
 
 p:first-of-type {
-  font-family: 'PT Sans', sans-serif;
-  font-style: oblique;
+  font-size: 1.5rem;
+}
 
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
 }
