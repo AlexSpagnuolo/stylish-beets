@@ -60,3 +60,12 @@ ol:last-of-type {
 p:nth-of-type(4) {
   font-style: italic;
 }
+
+dt {
+  font-weight: bold;
+  font-family: "PT Serif", serif;
+}
+
+dd {
+  font-family: "PT Serif", serif;
+}
